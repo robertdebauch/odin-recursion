@@ -1,0 +1,25 @@
+{
+  "name": "odin-recursion",
+  "version": "1.0.0",
+  "description": "Practice of a recursive approach: Fibonacci and Merge Sort",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertdebauch/odin-recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/robertdebauch/odin-recursion/issues"
+  },
+  "homepage": "https://github.com/robertdebauch/odin-recursion#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.14",
+    "jest": "^30.5.2"
+  }
+}

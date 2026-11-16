@@ -4,7 +4,8 @@
   "description": "Practice of a recursive approach: Fibonacci and Merge Sort",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",
